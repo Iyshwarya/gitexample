@@ -22,6 +22,11 @@ namespace gitexample
             button2.Text = "Hi";
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         
     }
 }
